@@ -303,6 +303,9 @@ footer .questions{
         
         flex-direction: column;
     }
+    .main input {
+        padding:4px 20px 6px 20px;
+    }
     
     .secImg img{
         width: 310px;
